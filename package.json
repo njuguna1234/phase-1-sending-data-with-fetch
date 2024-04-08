@@ -19,9 +19,11 @@
   },
   "dependencies": {
     "chai-spies": "^1.0.0",
+    "json": "^11.0.0",
     "mocha-jsdom": "^2.0.0",
     "nock": "^13.3.0",
     "node-fetch": "^2.6.1",
+    "sever": "^0.0.2",
     "sinon": "^7.3.1"
   }
 }
